@@ -46,4 +46,6 @@ def say_hi():
     return "Hello There!"
 
 
-print(say_hi())
+# print(say_hi())
+assert 1 == 1
+print("this is not crazy")
