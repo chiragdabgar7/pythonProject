@@ -2,6 +2,7 @@
 A simple python interpreter (very minimalistic approach)
 """
 
+
 class Interpreter:
     def __init__(self):
         self.stack = []
